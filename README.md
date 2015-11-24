@@ -1,4 +1,5 @@
 # Welcome to my java implementation of Rolit!
+<<<<<<< HEAD
 
 Manual to Rolit version 1.0.
 README: This is the readme file of Rolit version 1.0. 
@@ -47,3 +48,5 @@ Protocol.java
 
 THANKS: Special thanks go out to Alvar Hanso & DHARMA Initiative. 
 
+=======
+>>>>>>> d6c49415f3de7ac81cb6f6ecea12d9eac36cec83
