@@ -1,11 +1,10 @@
 # Welcome to my java implementation of Rolit!
 <<<<<<< HEAD
 
-Manual to Rolit version 1.0 (December 2015).
+Manual to Rolit version 1.0.
 README: This is the readme file of Rolit version 1.0. 
 AUTHORS: James Piggott.
 EMAIL: jjhpiggott@gmail.com.
-
 INSTALL:
 1. Copy files to Desktop.
 2. Start ‘Command Prompt’ and navigate to folder containing the .class files of this software (see file manifest).
@@ -14,6 +13,7 @@ Setting up a Server:
 
 Figure 1. Server set to port '2727'.
 2. Enter an integer value between 0 and 65535 as the port on which the server should listen for incoming client connections. Press ‘Start listening’ to engage the listening mode.
+
 
 Setting up a Client:
 1. Enter java ‘foldername’.ClientGUI.java in the command line and press enter to start the Rolit Client.
@@ -29,7 +29,6 @@ Playing a game of Rolit:
 3. A player can switch on the AI by selecting the button ‘Enable AI’, the user will have to input one more round of gameplay before the AI switches over to play. The AI can be disengaged by selecting ‘Disable AI’.
 4. The player can also select the time it will take for the AI to select a move. Using the slide bar the value can be altered between 0 en 10 seconds. This for the purpose of evaluating the moves the AI makes or to give the illusion of a human player playing.
 Note of Caution; Sometimes when selecting an erroneous square the board will be lock-out for the player, despite it still being the players round. Select a square in the upper left corner to correctly set the board.
-
 Exit program.
 1. If the player wishes to terminate a game. Press ‘Disconnect’ to stop the game.
 2. If a player wishes to stop the program select ‘X’ in the upper right corner.
@@ -46,6 +45,8 @@ ClientHandler.java
 Strategie.java
 AIRandomStrategie.java
 Protocol.java
+
+THANKS: Special thanks go out to Alvar Hanso & DHARMA Initiative. 
 
 =======
 >>>>>>> d6c49415f3de7ac81cb6f6ecea12d9eac36cec83
