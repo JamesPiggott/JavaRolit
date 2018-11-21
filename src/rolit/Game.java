@@ -1,7 +1,7 @@
 package rolit;
 
 import java.util.*;
-import static Rolit.Protocol.*;
+import static rolit.Protocol.*;
 
 /**
  * Deze klasse representeert het Spel. Het houdt een lijst van spelers, 

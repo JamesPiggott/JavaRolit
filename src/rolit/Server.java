@@ -5,7 +5,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.ArrayList;
 
-import static Rolit.Protocol.*;
+import static rolit.Protocol.*;
 
 /**
  * Deze klasse luistert naar socketverbindingen op

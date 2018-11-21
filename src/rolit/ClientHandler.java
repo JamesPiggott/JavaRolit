@@ -5,7 +5,7 @@ import java.net.*;
 import java.util.Observable;
 import java.util.Scanner;
 
-import static Rolit.Protocol.*;
+import static rolit.Protocol.*;
 
 /**
  * Deze klasse is voor het onderhouden van een 
